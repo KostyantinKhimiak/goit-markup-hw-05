@@ -682,7 +682,7 @@ img {
   background-color: #404bbf;
 }
 .btn-close-backdrop:hover .icon-backdrop,
-.btn-close-backdrop :focus .icon-backdrop {
+.btn-close-backdrop:focus .icon-backdrop {
   fill: #ffffff;
 }
 
