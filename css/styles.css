@@ -676,13 +676,13 @@ img {
   background-color: #e7e9fc;
 }
 
-.element-close-backdrop:hover,
-.element-close-backdrop:focus {
+.btn-close-backdrop:hover,
+.btn-close-backdrop:focus {
   border: none;
   background-color: #404bbf;
 }
-.element-close-backdrop:hover .icon-backdrop,
-.element-close-backdrop:focus .icon-backdrop {
+.btn-close-backdrop:hover .icon-backdrop,
+.btn-close-backdrop :focus .icon-backdrop {
   fill: #ffffff;
 }
 
